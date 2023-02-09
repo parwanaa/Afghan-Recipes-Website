@@ -46,6 +46,10 @@ ul {
   list-style: none;
 }
 
+.responsive {
+  width: 100%;
+  height: auto;
+}
 footer {
   background-color: #658864;
   text-align: center;
